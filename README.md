@@ -1,6 +1,8 @@
 # flutter_beauty
 
 A new Flutter application.
+## 预览
+![](https://github.com/wuchao226/flutter_beauty/blob/master/images/preview.gif)
 
 ## Getting Started
 
